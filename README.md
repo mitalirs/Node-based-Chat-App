@@ -1,5 +1,5 @@
 # Node-based-Chat-App
-#### This is a Chat App (worked on this as guided by the nodejs course instructor Andrew Mead) which enables the user to send text messages and share location with other users in the same romm
+#### This is a Chat App (worked on this as guided by the nodejs course instructor Andrew Mead) which enables the user to send text messages and share location with other users in the same room
 ### To set it up on your local machine
 ##### 1. Use the following git command to clone this repository:
 ```git clone https://github.com/mitalirs/Node-based-Chat-App.git```
